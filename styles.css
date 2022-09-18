@@ -1,0 +1,145 @@
+#title{
+  background-color: black;
+ color: #fff;
+
+}
+
+
+h1 {  font-family: "Montserrat";
+font-size: 3rem;
+line-height: 1.5;
+font-weight: 900;
+text-align: center;
+padding-top: 3%;
+}
+
+.container-fluid{
+  padding: 2% 2%;
+  padding-bottom: 10%;
+
+}
+.container{
+  padding-top: 5%;
+}
+body{
+  font-family: Montserrat;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+.nav-item{
+  padding: 0 18px;
+  font-family: "Montserrat-Thin";
+  font-size: 1.2rem;
+
+}
+
+
+#features{
+  padding: 7% 15%;
+  background-color: white;
+
+}
+
+
+h3{
+  font-family: "Montserrat"
+  font-weight: bold;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.icon{
+  padding-bottom: 5%;
+  color: #ef8172;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+
+#testimonials{
+
+  text-align: center;
+  background-color: black;
+  color: #fff;
+  font-family: "Montserrat-bold";
+
+}
+
+h2{
+  font-family: "Montserrat";
+  font-size: 2rem;
+  padding-top: 4%;
+
+}
+
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+.card-body{
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 3%;
+}
+.plan{
+  text-align: center;
+  padding: 4%;
+}
+
+@media (max-width: 1028px)  {
+  .title image {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title{
+    text-align: center;
+  }
+}
+
+
+#footer{
+  padding: 5% 7%;
+  text-align: center;
+
+}
+.social-icon{
+  padding: 7% 5%;
+}
+p5{  font-family: "Montserrat";
+text-align: center;
+font-size: 2rem;
+line-height: 1.5;
+font-weight: 500;
+
+}
+.REGISTER {
+padding-top: 5%;
+}
+.robowars{
+  padding-top: 5%;
+}
+.land{
+  padding-top: 3%;
+  padding-bottom: 7%;
+}
